@@ -33,7 +33,7 @@ You should now have some sample code on your screen:
 + Save your work with ```Ctrl-S```
 + Run your code by pressing the start button:
 
-![image](https://github.com/fslcoding/Practical-1/assets/62078259/d2d6a7e5-00b5-4bee-8074-86e4a3bbb4c1)
+![image](https://github.com/fslcoding/Practical-1/assets/62078259/98353768-5fcd-4929-943a-b38fa4ba1776)
 
 You have created your first C# Program!
 
