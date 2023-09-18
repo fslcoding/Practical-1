@@ -17,7 +17,7 @@ You may notice this gives an error,
 + You need to convert the ```Console.ReadLine();``` to an integer.
 + To do this, use the ```Convert.ToInt32();``` method:
 
-```
+```csharp
 int width = Convert.ToInt32( Console.ReadLine() );
 ```
 
@@ -25,7 +25,7 @@ int width = Convert.ToInt32( Console.ReadLine() );
 + Find the area of the shape by multiplying the two variables
 + Finally, print out the area using:
 
-```
+```csharp
 Console.WriteLine(area);
 ```
 
