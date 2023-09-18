@@ -7,7 +7,7 @@
 + As your program gets larger, they become very necessary
 
 To write a comment, place two forward slashes in front of your text:
-```
+```csharp
 // This is a comment
 
 This is not
@@ -16,7 +16,7 @@ This is not
 If you want, your comments can span multiple lines
 + You need a forward slash, and then a asterick after
 + To end the comment, do the reverse
-```
+```csharp
 /*
   This
   is
